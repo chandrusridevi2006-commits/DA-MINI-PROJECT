@@ -1,11 +1,11 @@
 ---
 🌐 Social Network Influence Analysis
 
-##📌 Overview
+📌 Overview
 
 This project focuses on analyzing a social network to identify influential users using Data Analytics and Graph Theory techniques. By modeling user relationships as a network, the system evaluates influence using advanced algorithms such as PageRank and Centrality Measures.
 The project demonstrates how graph-based analytics can help understand information flow, user importance, and network structure, which are critical in domains like social media, marketing, and recommendation systems.
----
+--
 🎯 #Objectives
 Generate a realistic social network dataset
 Construct a directed graph representing user relationships
